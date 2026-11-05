@@ -1,0 +1,6 @@
+{
+  "name": "Servicio Nacional Aeronaval - Portal Oficial y SIS-AERONAVAL",
+  "description": "Portal institucional público del Servicio Nacional Aeronaval (SENAN), con portal seguro de mando administrativo y panel operativo del oficial/soldado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
